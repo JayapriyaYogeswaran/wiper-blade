@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "title" : "FRONT WIPER BLADES(PAIR)",
+        "description" : "Wiper blades(pair) for the front wind shield",
+        "price" : "20",
+        "count" : {
+            "name" : "front",
+            "value" : 1
+        }
+    },
+    {
+        "id" : 2,
+        "title" : "REAR WIPER BLADES(PAIR)",
+        "description" : "Wiper blades(pair) for the rear wind shield",
+        "price" : "30",
+        "count" : {
+            "name" : "rear",
+            "value" : 1
+        }
+    },
+    {
+        "id" : 3,
+        "title" : "HEADLIGHT WIPER BLADE",
+        "description" : "Wiper blades(pair) for the front headlight",
+        "price" : "10",
+        "count" : {
+            "name" : "headlight",
+            "value" : 1
+        }
+    }
+]
